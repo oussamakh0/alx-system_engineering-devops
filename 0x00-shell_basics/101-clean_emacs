@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *~ .
+rm -type f -name *~ . 
