@@ -1,0 +1,2 @@
+#!/bin/bash
+umask 026 my_dir 
