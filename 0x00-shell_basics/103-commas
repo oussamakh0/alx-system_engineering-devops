@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --group-directories-first  -Xamp
+ls --group-directories-first  -amvp
