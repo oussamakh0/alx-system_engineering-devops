@@ -1,2 +1,2 @@
 #!/bin/bash
-umask o=rwx g=rx o=rx my_dir
+mkdir -m 751 my_dir
