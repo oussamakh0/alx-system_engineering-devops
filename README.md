@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-0x00. Shell, basics project
+This is shell permission project.. I will expound on it as soon as possible
